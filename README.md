@@ -12,15 +12,6 @@ Save tasks in browser with localStorage
 
 Responsive design for mobile and desktop
 
-🚀 Getting Started
-Just clone the repository and open index.html in your browser:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/simple-todo-app.git
-cd simple-todo-app
-open index.html  # or just double-click the file
 🛠 Tech Stack
 HTML5
 
